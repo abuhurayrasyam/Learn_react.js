@@ -1,0 +1,26 @@
+[
+    {
+        "id":"01",
+        "coverImage":"https://i.ibb.co.com/DDhFTsxQ/Palestine-Today.jpg",
+        "title":"Free Palestine",
+        "authorImage":"https://i.ibb.co.com/bRGtyB5b/people.png",
+        "authorName":"Abu Hurayra",
+        "readingTime": 5,
+        "hashtags":[
+            "FreePalestine",
+            "FreeGaza"
+        ]
+    },
+    {
+        "id":"02",
+        "coverImage":"https://i.ibb.co.com/DDhFTsxQ/Palestine-Today.jpg",
+        "title":"Free Gaza",
+        "authorImage":"https://i.ibb.co.com/bRGtyB5b/people.png",
+        "authorName":"Syam",
+        "readingTime": 4,
+        "hashtags":[
+            "FreePalestine",
+            "FreeGaza"
+        ]
+    }
+]

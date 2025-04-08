@@ -1,0 +1,10 @@
+.country{
+    border: 2px solid violet;
+    border-radius: 20px;
+    align-items: center;
+    justify-items: center;
+}
+
+.country-visited{
+    background-color: gold;
+}
