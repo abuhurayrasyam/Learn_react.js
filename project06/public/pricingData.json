@@ -1,0 +1,37 @@
+[
+    {
+      "id": "plan_basic",
+      "name": "Basic",
+      "price": "$29/month",
+      "description": "Perfect for those who want access to the essentials without any extras.",
+      "features": [
+        "Access to gym equipment",
+        "Open 6am–10pm",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": "plan_standard",
+      "name": "Standard",
+      "price": "$49/month",
+      "popular": true,
+      "description": "Ideal for regular gym-goers who enjoy classes and occasional guests.",
+      "features": [
+        "Everything in Basic",
+        "Group fitness classes",
+        "1 guest pass per month"
+      ]
+    },
+    {
+      "id": "plan_premium",
+      "name": "Premium",
+      "price": "$79/month",
+      "description": "All-access membership with personal training and 24/7 convenience.",
+      "features": [
+        "Everything in Standard",
+        "24/7 access",
+        "2 personal training sessions/month"
+      ]
+    }
+  ]
+  

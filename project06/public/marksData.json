@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Bella",
+      "marks": {
+        "physics": 74,
+        "chemistry": 80,
+        "biology": 77
+      }
+    },
+    {
+      "name": "Diya",
+      "marks": {
+        "physics": 66,
+        "chemistry": 70,
+        "biology": 73
+      }
+    },
+    {
+      "name": "Farah",
+      "marks": {
+        "physics": 88,
+        "chemistry": 85,
+        "biology": 86
+      }
+    },
+    {
+      "name": "Hina",
+      "marks": {
+        "physics": 95,
+        "chemistry": 97,
+        "biology": 96
+      }
+    },
+    {
+      "name": "Dua",
+      "marks": {
+        "physics": 78,
+        "chemistry": 82,
+        "biology": 80
+      }
+    }
+  ]
+  
