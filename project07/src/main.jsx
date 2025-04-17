@@ -39,6 +39,10 @@ const router = createBrowserRouter([
         path: 'users/:userId',
         loader: ({params}) => fetch(`https://jsonplaceholder.typicode.com/users/${params.userId}`),
         Component: UserDetails
+      },
+      {
+        path: '*',
+        element: <h1>Not Found: 404 Status</h1>
       }
     ]
   },
@@ -49,6 +53,10 @@ const router = createBrowserRouter([
   {
     path: 'app02',
     Component: App
+  },
+  {
+    path: '*',
+    element: <h1>Not Found: 404 Status</h1>
   }
 ])
 
